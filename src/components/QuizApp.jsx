@@ -83,6 +83,7 @@ function QuizApp() {
           ...quizData[currentQuestion].incorrect_answers,
           quizData[currentQuestion].correct_answer,
         ]
+          .sort(() => Math.random() - 0.5)
           .map((option, index) => (
             <button
               key={index}
