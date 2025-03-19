@@ -19,5 +19,5 @@ A simple and interactive Quiz App built with React and Tailwind CSS. This app al
 
 1. Clone the repository  
    ```sh
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/AsadullahAbbasi/Quiz_App_AngleBracket.git
    cd quiz-app
